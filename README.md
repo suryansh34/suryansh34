@@ -1,7 +1,8 @@
+HTML
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg?v=4" />
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg?v=4" />
-  <img alt="Suryansh Sahu — Evalora" src="./light.svg?v=4" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suryansh34/suryansh34/main/dark.svg?v=999">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suryansh34/suryansh34/main/light.svg?v=999">
+  <img alt="Suryansh Sahu" src="https://raw.githubusercontent.com/suryansh34/suryansh34/main/light.svg?v=999">
 </picture>
 
 <br/>
