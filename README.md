@@ -1,3 +1,10 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg?v=4" />
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg?v=4" />
+  <img alt="Suryansh Sahu — Evalora" src="./light.svg?v=4" />
+</picture>
+
+<br/>
 <!-- Phase 1: Theme-Aware Animated Terminal Banner -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suryansh34/suryansh34/main/dark.svg" />
